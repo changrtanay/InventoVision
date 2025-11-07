@@ -1,6 +1,6 @@
 # InventoVision
 
-## 🏬on Retail Store Inventory Analysis & Modeling
+## 🏬 Retail Store Inventory Analysis & Modeling
 
 This project provides an end-to-end **data analysis and machine learning workflow** for retail store inventory optimization. It explores, cleans, engineers, and models inventory and sales data to predict **Units Sold**, helping retailers improve **demand forecasting**, **stock management**, and **pricing strategies**.
 
