@@ -186,14 +186,6 @@ Or run in Google Colab.
 
 ---
 
-## 👨‍💻 Author
-
-Project By: [Your Name]
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
-
----
-
 ## 📜 License
 
 This project is released under the **MIT License**.
