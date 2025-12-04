@@ -1,3 +1,4 @@
+[![PowerBI Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-green?style=for-the-badge)](https://app.powerbi.com/reportEmbed?reportId=fe21d222-3d98-4743-a765-9e30b437b01c&autoAuth=true&ctid=ddaefc43-6062-456e-b110-98a82695e5c3)
 # InventoVision
 
 ## 🏬 Retail Store Inventory Analysis & Modeling
