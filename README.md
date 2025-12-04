@@ -6,6 +6,11 @@ This project provides an end-to-end **data analysis and machine learning workflo
 
 ---
 
+## Screenshot
+Here is a screenshot from the Power BI dashboard:
+
+![Screenshot](screenshot.jpg)
+
 ## 📘 Project Overview
 
 This notebook walks through:
