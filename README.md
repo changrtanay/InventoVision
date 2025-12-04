@@ -4,8 +4,6 @@
 
 This project provides an end-to-end **data analysis and machine learning workflow** for retail store inventory optimization. It explores, cleans, engineers, and models inventory and sales data to predict **Units Sold**, helping retailers improve **demand forecasting**, **stock management**, and **pricing strategies**.
 
----
-
 ## Screenshot
 Here is a screenshot from the Power BI dashboard:
 
